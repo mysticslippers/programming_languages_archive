@@ -1,0 +1,6 @@
+grep '^.$' test
+grep '[0-9]' test
+egrep '\<(0x[0-9A-F]\{2\}|0[0-9A-F]\{2\}h)\>' test
+grep '\<[A-Za-z]\{3\}\>' test
+grep '^$' test
+grep -v 'test' test
