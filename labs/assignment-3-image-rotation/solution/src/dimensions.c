@@ -1,3 +1,5 @@
+#include <stddef.h>
+
 #include "dimensions.h"
 
 struct dimensions dimensions_reverse(const struct dimensions *dim) {

@@ -1,3 +1,5 @@
+#include <stddef.h>
+
 #include "transform.h"
 
 #include "dimensions.h"
